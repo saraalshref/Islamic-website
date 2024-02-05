@@ -1,0 +1,110 @@
+
+nav{
+    background-color: black;
+   padding: 10px;
+}
+a{
+    text-decoration-line: none;
+    color: rgb(23, 31, 93) ;
+    
+}
+li{
+    list-style-type: none;
+    margin-left: 20px;
+    
+}
+
+#btnScroll{
+    bottom: 5px;
+    right: 5px;
+    z-index: 1;
+    display: none;
+}
+
+
+
+#btnScroll{
+    width: 55px;
+    height: 50px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background-color: rgb(180, 146, 67);;
+}
+.color{
+    color: #8a5504 ;
+    font-size: 20px;
+    font-weight: 600;
+}
+span{
+    border-bottom:1px solid #000;
+    
+  }
+nav{
+    background-color: rgb(247, 247, 247)
+}
+.nav-link{
+    color: rgb(180, 146, 67);
+    font-weight: 600;
+}
+.navShekhName{
+    color: rgb(180, 146, 67);
+    font-weight: 600;
+}
+h1,h3,h2{
+    color: rgb(180, 146, 67);
+   
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.mtop{
+    margin-top: 90px;
+}
+.mtop2{
+    margin-top: 30px;
+}
+hr{
+    width:350px ;
+}
+.mbottom{
+    margin-bottom: 90px;
+}
+.im{
+    max-width: 100%;
+    margin-top: 8rem;
+}
+.colorr{
+    color: #8a5504;
+    
+
+}
+.lsera li{
+    list-style-type:disc;
+}
+.mwidth{
+    max-width: 100%;
+}
+.mtopqana{
+    margin-top: 35px;
+}
+.hrwidth{
+    width: 620px;
+    max-width: 100%;
+}
+.txtpre{
+    direction: rtl; font-weight: 600; font-size: 0.9rem
+}
+.colorred{
+    color: rgb(117, 22, 22);
+}
+.mtop30{
+    margin-top: 40px;
+}
+.mb20{
+    margin-bottom: 20px;
+}
+@media only screen and (max-width:460px) {
+    .navShekhName {
+        font-size: 13px !important;
+    }
+}
